@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+   int x,y;
+   cin>>x>>y;
+   cout<<"sum = "<<x+y;
 }
